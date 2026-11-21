@@ -230,6 +230,6 @@ void drawGameOver()
     display.print("Score: ");
     display.println(score);
     display.setCursor(18, 50);
-    display.println("Press JUMP to start");
+    display.println("Press to start");
     display.display();
 }
